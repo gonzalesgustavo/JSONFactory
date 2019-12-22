@@ -14,8 +14,6 @@ function App() {
     updateComponents(componentList);
   }
 
-  console.log(components);
-
   return (
     <div className="App">
       <Nav />
