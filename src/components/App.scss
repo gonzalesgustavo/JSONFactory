@@ -1,0 +1,9 @@
+.App-main{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.App-body{
+    width: 100vw;
+    display: grid;
+    grid-template-columns: 40% 60%;
+}
